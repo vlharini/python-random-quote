@@ -1,4 +1,4 @@
-def 	():
+def anythin():
    print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
@@ -8,4 +8,4 @@ def 	():
   #print(quotes)
 
 if __name__== "__main__":
-  primary()
+  anythin()
